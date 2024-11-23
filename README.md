@@ -1,8 +1,6 @@
 <div align="center">
   <!-- Profile Image -->
-<img width="190" align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
-
-
+<img width="190" align="center" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
 
   <!-- Welcome Text and Typing Animation -->
   <h3>Welcome to Ahmed Mahmoud's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
