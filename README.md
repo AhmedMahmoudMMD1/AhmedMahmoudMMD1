@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Image -->
-<img width="300" align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
+<img width="200" align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
 
@@ -51,7 +51,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
 </div>
 
-## 📈 &nbsp;GitHub Stats
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-</div>
+
