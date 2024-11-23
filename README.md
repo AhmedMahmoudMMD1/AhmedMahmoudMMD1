@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Image -->
-<img width="200" align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
+<img width="190" align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
 
